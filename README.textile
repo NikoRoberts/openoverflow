@@ -12,8 +12,10 @@ Mit license: See license doc
 h1. Prerequisites
 
 
-* PostgreSQL gem:  sudo gem install pg
-* Haml gem: sudo gem install haml
+* PostgreSQL gem:  gem install pg
+* Haml gem: gem install haml
+
+- On Linux systems PostgreSQL also needs libpq-dev installed: sudo apt-get install libps-dev
 
 
 
